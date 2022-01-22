@@ -7,7 +7,7 @@ Main content of this video is
 1)Firstly i want to share about the parses:
      1.Parser means Index Analyzer.
      2.Input likes Token.
-     3.Output likes Parse.
+     3.Output likes Parse tree
 2)Tokenizer is nothing but the starting tag and ending tags.  
 3)Layout computes where a node will be on the screen.
 4)Painting computes bitmaps and composites to screen. 
